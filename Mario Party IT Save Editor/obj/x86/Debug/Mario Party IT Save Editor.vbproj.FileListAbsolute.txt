@@ -1,0 +1,26 @@
+C:\Users\Brion\AppData\Local\Temporary Projects\Mario Party IT Save Editor\bin\Debug\Mario Party IT Save Editor.exe
+C:\Users\Brion\AppData\Local\Temporary Projects\Mario Party IT Save Editor\bin\Debug\Mario Party IT Save Editor.pdb
+C:\Users\Brion\AppData\Local\Temporary Projects\Mario Party IT Save Editor\bin\Debug\Mario Party IT Save Editor.xml
+C:\Users\Brion\AppData\Local\Temporary Projects\Mario Party IT Save Editor\obj\x86\Debug\Mario_Party_IT_Save_Editor.Form1.resources
+C:\Users\Brion\AppData\Local\Temporary Projects\Mario Party IT Save Editor\obj\x86\Debug\Mario_Party_IT_Save_Editor.Resources.resources
+C:\Users\Brion\AppData\Local\Temporary Projects\Mario Party IT Save Editor\obj\x86\Debug\Mario Party IT Save Editor.vbproj.GenerateResource.Cache
+C:\Users\Brion\AppData\Local\Temporary Projects\Mario Party IT Save Editor\obj\x86\Debug\Mario Party IT Save Editor.exe
+C:\Users\Brion\AppData\Local\Temporary Projects\Mario Party IT Save Editor\obj\x86\Debug\Mario Party IT Save Editor.xml
+C:\Users\Brion\AppData\Local\Temporary Projects\Mario Party IT Save Editor\obj\x86\Debug\Mario Party IT Save Editor.pdb
+C:\Users\Brion\AppData\Local\Temporary Projects\Mario Party IT Save Editor\bin\Debug\PackageIO.dll
+C:\Users\Brion\AppData\Local\Temporary Projects\Mario Party IT Save Editor\obj\x86\Debug\Mario Party IT Save Editor.vbprojResolveAssemblyReference.cache
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\bin\Debug\Mario Party IT Save Editor.exe
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\bin\Debug\Mario Party IT Save Editor.pdb
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\bin\Debug\Mario Party IT Save Editor.xml
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\bin\Debug\PackageIO.dll
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\obj\x86\Debug\Mario Party IT Save Editor.vbprojResolveAssemblyReference.cache
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\obj\x86\Debug\Mario_Party_IT_Save_Editor.Form1.resources
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\obj\x86\Debug\Mario_Party_IT_Save_Editor.Resources.resources
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\obj\x86\Debug\Mario Party IT Save Editor.vbproj.GenerateResource.Cache
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\obj\x86\Debug\Mario Party IT Save Editor.exe
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\obj\x86\Debug\Mario Party IT Save Editor.xml
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\obj\x86\Debug\Mario Party IT Save Editor.pdb
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\obj\x86\Debug\Mario_Party_IT_Save_Editor.Form2.resources
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\obj\x86\Debug\Mario_Party_IT_Save_Editor.Form3.resources
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\Brion\documents\visual studio 2010\Projects\Mario Party IT Save Editor\Mario Party IT Save Editor\bin\Debug\fr\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
