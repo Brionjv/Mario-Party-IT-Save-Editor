@@ -15,3 +15,6 @@
 
 # Releases :
 https://github.com/Brionjv/Mario-Party-IT-Save-Editor/releases
+
+# Page :
+https://gbatemp.net/threads/release-mario-party-it-save-editor.409916/
